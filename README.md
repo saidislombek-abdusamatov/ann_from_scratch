@@ -2,6 +2,8 @@
 
 This project implements an Artificial Neural Network classifier and regressor for solving classification problems.
 
+![img](https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/nural-network-banner-1024x614.gif)
+
 ## About The Project
 
 The ANN class creates an ANN model based on given input shape, number of layers and their parameters, and loss function. It has the following capabilities:
