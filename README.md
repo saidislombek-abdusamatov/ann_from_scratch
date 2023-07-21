@@ -19,8 +19,7 @@ To use the project, follow these steps:
 1. Import required libraries:
 
 ```python
-import numpy as np 
-from ann import ANN
+import numpy as np
 ```
 
 2. Create an ANN model:
